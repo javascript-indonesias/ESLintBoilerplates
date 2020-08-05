@@ -17,6 +17,12 @@ Run script inside project to install needed dependencies.
 yarn install
 ```
 
+or using NPM
+
+```sh
+npm install
+```
+
 ## Setup Default Formatter and Autofix On Save
 
 Install [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) and [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) plugin from VS Code Marketplace, and add this snippets in your VS Code Settings "settings.json" file.
