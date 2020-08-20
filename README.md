@@ -1,10 +1,10 @@
-# ESLint Boilerplate Project
+# ESLint Boilerplate Project with Parcel JS
 
 Basic boilerplate project for JavaScript and TypeScript Apps with ESLint and Prettier configuration. This project made based on Traversy Media tutorial about [VSCode ESLint, Prettier & Airbnb Style Guide Setup](https://www.youtube.com/watch?v=SydnKbGc7W8) and [ESLint Gist Setup](https://gist.github.com/bradtraversy/aab26d1e8983d9f8d79be1a9ca894ab4).
 
 ## Setup
 
-This project using Yarn as package manager. But it can run with NPM too. For first setup, install Node JS in your device, and then run this script in to clone project with Git.
+This project using Yarn as package manager. But it can run with NPM too. For first setup, install Node JS in your device, and then run this script in to clone project with Git. Parcel JS is used for compiling and module bundler for this boilerplate, you should install Parcel JS first before running npm scripts in package.json file.
 
 ```sh
 // Clone the repository
